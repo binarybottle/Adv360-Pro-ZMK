@@ -1,5 +1,5 @@
 # Kinesis Advantage 360 Pro ZMK Config
-# binarybottle fork
+# binarybottle/ fork
 
 ## Modifying the keymap
 
